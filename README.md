@@ -24,7 +24,15 @@
 ### 📈 GitHub Stats  
 
 ![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayur4518&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur4518&layout=compact&theme=tokyonight)
+![T
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Mayur4518&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mayur4518&layout=compact&theme=tokyonight" />
+</p>
+op Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur4518&layout=compact&theme=tokyonight)
 
 ---
 
